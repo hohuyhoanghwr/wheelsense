@@ -1,0 +1,2 @@
+SERVICE_UUID = bluetooth.UUID('be94c06d-e5fb-4b31-a2c1-ed4d2f68ef0a') 
+CHARACTERISTIC_UUID = bluetooth.UUID('6d8e2ae0-28cb-4ba8-ac81-dcbc312e0bb4')
