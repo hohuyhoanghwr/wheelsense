@@ -12,7 +12,3 @@ __pycache__/
 env/
 venv/
 ENV/
-
-# Downloaded images
-berlin_platform/
-wheelchair_in_station/
